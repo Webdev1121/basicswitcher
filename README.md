@@ -1,0 +1,2 @@
+# basicswitcher
+OBS Switcher Preset
